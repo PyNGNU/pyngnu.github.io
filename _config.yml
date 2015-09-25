@@ -1,0 +1,12 @@
+# Site settings
+title: PyNGNU
+email: pyngnu@lengau.net
+description: "Unix core utilities written in Python"
+baseurl: ""
+url: "https://pyngnu.github.io"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
